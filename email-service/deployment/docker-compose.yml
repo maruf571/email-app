@@ -1,0 +1,8 @@
+version: '3.5'
+
+services:
+  ehrbd-api:
+    image: maruf571/email-service:1.0.0
+    restart: always
+    environment:
+      - "SPRING_PROFILES_ACTIVE=prod"

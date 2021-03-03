@@ -1,0 +1,17 @@
+{
+  "name": "welcome",
+  "to" : "awesome@gmail.com",
+  "subject" : "Welcome on board",
+  "fromName" : "Team Awesome",
+  "fromEmail" : "no-reply@awesome.com",
+  "template" : "welcome",
+
+  "supportEmail" : "support@awesome.com",
+  "chatLink" : "https://www.facebook.com/e.health.record",
+  "senderName" : "Maruf Hassan",
+  "companyAddress" : "<br>Berlin 12555",
+  "productName" : "awesome",
+  "recipientName" : "",
+  "activationLink" : "https://localhost:8080/active/your/account",
+  "resetPasswordLink" : ""
+}
